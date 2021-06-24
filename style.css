@@ -389,6 +389,7 @@ a:hover {
 
   justify-content: center;
   padding: 5px;
+  margin: 30px;
 }
 
 @media (min-width: 768px) {
