@@ -365,40 +365,6 @@ a:hover {
   z-index: 2;
 }
 
-/*************modification**************/
-
-.col-sm-6,
-.col-sm-12 {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-}
-#form_1 {
-  display: flex;
-  flex-direction: column;
-}
-.form-group {
-  display: flex;
-  flex-direction: column;
-  padding: 10px;
-}
-.btn-atomic-tangerine {
-  text-decoration: none;
-  border: none;
-  border-radius: 10px;
-}
-.portfolio-thumb {
-  object-fit: cover;
-}
-/*
-.col-sm-6 {
-  position: relative;
-  min-height: 1px;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-}*/
-
 @media (min-width: 768px) {
   .site-navigation {
     position: absolute;
@@ -1002,12 +968,6 @@ h4 {
     overflow-x: hidden;
     -webkit-box-shadow: none;
     box-shadow: none;
-    list-style-type: none;
-  }
-  /*suppression ligne*/
-  .page-container a {
-    list-style-type: none;
-    text-decoration: none;
   }
   .navbar-brand img {
     max-height: 40px;
