@@ -1,0 +1,9 @@
+Agent utilisateur: *
+Interdire : /search
+Autoriser : /search/about
+Autoriser : /search/static
+Autoriser : /search/howsearchworks
+Interdire : /sdch
+Interdire : /groupes
+Interdire : /index.html ?
+Interdire : /?
